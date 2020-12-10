@@ -1,6 +1,6 @@
 # Freelance Work
 
-Finding freelance work is a good way of challenging yourself to improve your skills, build you portfolio, and make some money. Your first few jobs may be small or tough, but there is a lot of freelance work out there for web devs. 
+Finding freelance work is a good way of challenging yourself to improve your skills, build your portfolio, and make some money. Your first few jobs may be small or tough, but there is a lot of freelance work out there for web devs. 
 
 There are a few ways to find these jobs, some of which may be less apparent than others, and many of these methods are worth exploring.  Once you find a job, there are some best practices that can ensure that you get a fair deal and can work in a comfortable environment.
 
